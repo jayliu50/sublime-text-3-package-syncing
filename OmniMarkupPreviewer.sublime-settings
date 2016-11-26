@@ -83,6 +83,8 @@
         //                   ("em" and "en") dashes, etc.
         //                   See: http://daringfireball.net/projects/smartypants/
         //                   And: https://github.com/waylan/Python-Markdown/blob/master/docs/extensions/smarty.txt
-        "extensions": ["tables", "strikeout", "abbr", "attr_list", "def_list", "footnotes", "meta", "smarty", "nl2br"]
+        "extensions": ["tables", "abbr", "attr_list", "def_list", "footnotes", "meta", "smarty", "nl2br"] // remove strikeout because there is a bug
+        // "extensions": ["tables", "abbr", "strikeout", "attr_list", "def_list", "footnotes", "meta", "smarty", "nl2br"]
+
     }
 }
