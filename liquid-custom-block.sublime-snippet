@@ -1,0 +1,14 @@
+<snippet>
+    <content>
+<![CDATA[{% ${1:blockname}${3} %}
+${2:$SELECTION}
+{% end${1:blockname} %}
+]]>
+    </content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>lqb</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.html</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Create custom Liquid blocks</description>
+</snippet>

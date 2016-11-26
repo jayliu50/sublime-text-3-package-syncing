@@ -1,0 +1,11 @@
+[
+  {
+    "keys": ["f1"],
+    "command": "dired",
+    "args": {
+      "immediate": true,
+      "single_pane": true,
+      "project": true
+    }
+  }
+]

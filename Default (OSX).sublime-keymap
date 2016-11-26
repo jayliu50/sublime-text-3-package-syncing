@@ -1,0 +1,7 @@
+[
+{
+  "keys": ["ctrl+super+b"],
+  "command": "insert_snippet",
+  "args": { "name": "Packages/User/liquid-custom-block.sublime-snippet" }
+}
+]

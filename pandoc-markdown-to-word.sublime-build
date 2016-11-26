@@ -1,0 +1,4 @@
+{
+  "cmd": ["pandoc", "-S", "-s", "-f", "markdown_github", "-F", "mermaid-filter", "-t", "docx", "-o", "$file_base_name.docx", "$file_name"],
+  "selector": "text.html.markdown"
+}
