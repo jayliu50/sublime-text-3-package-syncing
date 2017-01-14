@@ -1,7 +1,36 @@
 [
-{
-  "keys": ["ctrl+super+b"],
-  "command": "insert_snippet",
-  "args": { "name": "Packages/User/liquid-custom-block.sublime-snippet" }
-}
+    {
+      "keys": ["ctrl+super+b"],
+      "command": "insert_snippet",
+      "args": { "name": "Packages/User/liquid-custom-block.sublime-snippet" }
+    },
+    {
+        "keys": ["alt+ctrl+shift+;"],
+        "command": "ace_jump_word"
+    },
+    {
+        "keys": ["alt+ctrl+shift+'"],
+        "command": "ace_jump_char"
+    },
+    {
+        "keys": ["alt+ctrl+shift+."],
+        "command": "ace_jump_line"
+    },
+    {
+        "keys": ["alt+ctrl+shift+super+,"],
+        "command": "ace_jump_within_line"
+    },
+    {
+        "keys": ["alt+ctrl+shift+super+;"],
+        "command": "ace_jump_select"
+    }
+    // {
+    //     "keys": ["ctrl+'"],
+    //     "command": "ace_jump_add_cursor"
+    // },
+    // {
+    //     "keys": ["ctrl+."],
+    //     "command": "ace_jump_after"
+    // }
+
 ]
