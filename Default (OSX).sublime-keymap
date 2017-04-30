@@ -23,6 +23,34 @@
     {
         "keys": ["alt+ctrl+shift+super+;"],
         "command": "ace_jump_select"
+    },
+    {
+        "keys": ["alt+ctrl+shift+super+r"],
+        "command": "side_bar_rename"
+    },
+    {
+        "keys": ["alt+ctrl+shift+super+d"],
+        "command": "side_bar_duplicate"
+    },
+    {
+        "keys": ["alt+ctrl+shift+super+w"],
+        "command": "toggle_setting",
+        "args":
+        {
+            "setting": "word_wrap"
+        }
+    },
+    {
+        "keys": ["alt+ctrl+shift-super+]"],
+        "command": "run_macro_file",
+        "args":
+        {
+            "file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"
+        }
+    },
+    {
+        "keys": ["alt+ctrl+shift-super+["],
+        "command": "left_delete"
     }
     // {
     //     "keys": ["ctrl+'"],

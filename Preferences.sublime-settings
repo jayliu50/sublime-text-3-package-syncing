@@ -124,7 +124,8 @@
 	"https_proxy": false,
 	"ignored_packages":
 	[
-		"CSS Extended Completions",
+		"All Autocomplete",
+		"Better Completion",
 		"Markdown",
 		"Terminal",
 		"Theme - Soda SolarizedDark",
