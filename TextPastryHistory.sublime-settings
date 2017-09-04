@@ -1,0 +1,46 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "keys"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter keys"
+			},
+			"key": "e7260b7f2a88729351fe357096f1ef66",
+			"label": "filter keys"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": ":"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter :"
+			},
+			"key": "d50d51dad396f3b07c348be312c59033",
+			"label": "filter :"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"context": "selection",
+			"operator": null,
+			"pattern": ":"
+		},
+		"command": "text_pastry_modify_selection",
+		"text": "filter :"
+	}
+}

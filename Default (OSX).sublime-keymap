@@ -41,7 +41,7 @@
         }
     },
     {
-        "keys": ["alt+ctrl+shift-super+]"],
+        "keys": ["alt+ctrl+shift+super+]"],
         "command": "run_macro_file",
         "args":
         {
@@ -49,9 +49,23 @@
         }
     },
     {
-        "keys": ["alt+ctrl+shift-super+["],
+        "keys": ["alt+ctrl+shift+super+["],
         "command": "left_delete"
+    },
+    {
+        "keys": ["alt+ctrl+shift+super+p"],
+        "command": "preserve_case"
+    },
+    {
+        "keys": ["alt+ctrl+shift+super+'"],
+        "command": "ace_jump_add_cursor"
+    },
+    {
+        "keys": ["shift+ctrl+minus"],
+        "command": "jump_forward"
     }
+
+
     // {
     //     "keys": ["ctrl+'"],
     //     "command": "ace_jump_add_cursor"
