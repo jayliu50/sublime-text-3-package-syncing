@@ -13,7 +13,7 @@
 		"imposter",
 		"neuroticism"
 	],
-	"always_prompt_for_file_reload": false,
+	"always_prompt_for_file_reload": true,
 	"always_show_minimap_viewport": false,
 	"animation_enabled": true,
 	"atomic_save": false,
@@ -110,13 +110,13 @@
 		".hg",
 		"CVS"
 	],
-	"font_face": "Hack",
+	"font_face": "Input Mono",
 	"font_options":
 	[
 		"gray-antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 11,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -126,8 +126,7 @@
 	"https_proxy": false,
 	"ignored_packages":
 	[
-		"All Autocomplete",
-		"Better Completion",
+		"Color Highlighter",
 		"Markdown",
 		"Terminal",
 		"Theme - Soda SolarizedDark",
@@ -147,7 +146,6 @@
 	"indent_to_bracket": false,
 	"index_exclude_patterns":
 	[
-		"/home/jay/Code/upmc/dayinthelife/bower_components*",
 		"*.log",
 		"/home/jay/Code/portfolio/dist*"
 	],

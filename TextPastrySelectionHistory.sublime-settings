@@ -1,0 +1,52 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"keep": true,
+					"operator": "add",
+					"pattern": "f",
+					"use_regex": true
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "f"
+			},
+			"key": "8fa14cdd754f91cc6554c9e71929cce7",
+			"label": "f"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"keep": true,
+					"operator": "add",
+					"pattern": "=.*$",
+					"use_regex": true
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "=.*$"
+			},
+			"key": "e7b36cd2cad1727d6f73d8d0b350385e",
+			"label": "=.*$"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"context": "file",
+			"keep": true,
+			"operator": "add",
+			"pattern": "=.*$",
+			"use_regex": true
+		},
+		"command": "text_pastry_modify_selection",
+		"pattern": "=.*$"
+	}
+}
