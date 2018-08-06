@@ -15,7 +15,7 @@
 		"Facebook",
 		"Gollum"
 	],
-	"always_prompt_for_file_reload": false,
+	"always_prompt_for_file_reload": true,
 	"always_show_minimap_viewport": false,
 	"animation_enabled": true,
 	"atomic_save": false,
@@ -131,8 +131,6 @@
 	"https_proxy": false,
 	"ignored_packages":
 	[
-		"All Autocomplete",
-		"Better Completion",
 		"JavaScriptNext - ES6 Syntax",
 		"Markdown",
 		"Terminal",
@@ -152,7 +150,6 @@
 	"indent_to_bracket": false,
 	"index_exclude_patterns":
 	[
-		"/home/jay/Code/upmc/dayinthelife/bower_components*",
 		"*.log",
 		"/home/jay/Code/portfolio/dist*"
 	],
@@ -172,6 +169,7 @@
 	"open_files_in_new_window": true,
 	"overlay_scroll_bars": "system",
 	"preview_on_click": true,
+	"remember_full_screen": true,
 	"remember_open_files": false,
 	"reveal-on-activate": false,
 	"rulers":
@@ -188,6 +186,7 @@
 	"show_tab_close_buttons": true,
 	"smart_indent": true,
 	"spell_check": true,
+	"spelling_selector": "markup.raw, source string.quoted - punctuation - meta.preprocessor.include, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)",
 	"tab_completion": true,
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
@@ -195,7 +194,6 @@
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
-	"typescript_auto_format": true,
 	"use_simple_full_screen": false,
 	"use_tab_stops": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
