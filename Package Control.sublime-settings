@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"TypeScript"
 	],
 	"installed_packages":
 	[
@@ -88,8 +87,6 @@
 		"Theme - Soda",
 		"Theme - Soda SolarizedDark",
 		"Theme - Spacegray",
-		"TypeScript",
-		"TypeScript Syntax",
 		"Typewriter",
 		"Vanilla lodash Snippets"
 	]
