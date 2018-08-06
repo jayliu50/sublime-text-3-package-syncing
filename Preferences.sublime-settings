@@ -11,7 +11,9 @@
 		"Uchtdorf",
 		"mesmerizingly",
 		"imposter",
-		"neuroticism"
+		"neuroticism",
+		"Facebook",
+		"Gollum"
 	],
 	"always_prompt_for_file_reload": false,
 	"always_show_minimap_viewport": false,
@@ -52,6 +54,7 @@
 		"*.ttf",
 		"*.woff",
 		"*.zip",
+		".cache/**",
 		"bower_components/**"
 	],
 	"bold_folder_labels": true,
@@ -73,8 +76,10 @@
 	"draw_minimap_border": false,
 	"draw_white_space": "selection",
 	"enable_hexadecimal_encoding": true,
+	"enable_inline_error_tips": true,
 	"enable_tab_scrolling": true,
 	"enable_telemetry": "auto",
+	"enable_typescript_language_service": true,
 	"ensure_newline_at_eof_on_save": false,
 	"fade_fold_buttons": true,
 	"fallback_encoding": "Western (Windows 1252)",
@@ -110,13 +115,13 @@
 		".hg",
 		"CVS"
 	],
-	"font_face": "Hack",
+	"font_face": "IBM Plex Mono",
 	"font_options":
 	[
 		"gray-antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 11,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -131,7 +136,6 @@
 		"Markdown",
 		"Terminal",
 		"Theme - Soda SolarizedDark",
-		"TypeScript",
 		"Vintage"
 	],
 	"ignored_words":
@@ -190,6 +194,7 @@
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
+	"typescript_auto_format": true,
 	"use_simple_full_screen": false,
 	"use_tab_stops": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",

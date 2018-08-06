@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<${1:div} className={classes.${2:class}}>${3}</${1: div}>
+]]></content>
+    <tabTrigger>el</tabTrigger>
+    <scope>source.js, meta.group.braces.round.js, meta.jsx.js</scope>
+    <description>React Component Element with JSS</description>
+</snippet>

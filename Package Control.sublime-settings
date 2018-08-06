@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"TypeScript"
 	],
 	"installed_packages":
 	[
@@ -9,11 +10,16 @@
 		"AlignTab",
 		"All Autocomplete",
 		"AutoFileName",
+		"Babel",
 		"Better CoffeeScript",
 		"Better Completion",
 		"BetterFindBuffer",
+		"BetterSave",
+		"BetterSnippetManager",
+		"Bracketeer",
 		"BracketHighlighter",
 		"Case Conversion",
+		"ChangeQuotes",
 		"Cheat Sheets",
 		"Clipboard Manager",
 		"CoffeeCompile",
@@ -23,13 +29,11 @@
 		"CSS To SASS And Stylus Converter",
 		"DocBlockr",
 		"EasySettings",
-		"Emmet",
 		"Emoji",
 		"File History",
 		"FileDiffs",
 		"Find++",
 		"FindKeyConflicts",
-		"fish-shell",
 		"GenerateUUID",
 		"GhostText",
 		"Git",
@@ -41,8 +45,11 @@
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery Snippets for Coffeescript",
 		"JsFormat",
+		"JSONComma",
+		"JsPrettier",
 		"Liquid",
 		"Local History",
+		"Markdown Table Formatter",
 		"MarkdownEditing",
 		"MarkdownHighlighting",
 		"Material Theme",
@@ -82,6 +89,7 @@
 		"Theme - Soda SolarizedDark",
 		"Theme - Spacegray",
 		"TypeScript",
+		"TypeScript Syntax",
 		"Typewriter",
 		"Vanilla lodash Snippets"
 	]
