@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+---
+title: ${1:Competitive Analysis}
+date: ${2:2019-06-19T11:57:42-04:00}
+category: ${3:page}
+tags: ${4:my,tags}
+type: ${5:article}
+---
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>yfm</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.markdown</scope>
+  <description>YAML Frontmatter</description>
+</snippet>

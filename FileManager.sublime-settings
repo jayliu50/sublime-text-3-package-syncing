@@ -1,0 +1,15 @@
+// Your settings for FileManager. See the default file to see the different options.
+{
+    "terminals": [
+        {
+            "name": "CMD",
+            "cmd": ["cmd"],
+            "platform": "windows"
+        },
+        {
+            "name": "Terminal",
+            "cmd": ["open", "-a", "iTerm", ""],
+            "platform": "osx"
+        }
+    ]
+}

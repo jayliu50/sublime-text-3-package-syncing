@@ -47,7 +47,7 @@
   //     - Windows.......: "C:/path/to/npm/prettier" (absolute)
   // ----------------------------------------------------------------------
 
-  "prettier_cli_path": "",
+  "prettier_cli_path": "/Users/jayliu/.nvm/versions/node/v10.1.0/bin/prettier",
 
   // ----------------------------------------------------------------------
   // Node Path
@@ -70,7 +70,7 @@
   //     - Windows.......: "C:/path/to/node.exe"
   // ----------------------------------------------------------------------
 
-  "node_path": "",
+  "node_path": "/Users/jayliu/.nvm/versions/node/v10.1.0/bin/node",
 
   // ----------------------------------------------------------------------
   // Auto Format on Save
@@ -104,7 +104,7 @@
   //     ]
   // ----------------------------------------------------------------------
 
-  "auto_format_on_save_excludes": ["*/node_modules/*", "*/.git/*"],
+  "auto_format_on_save_excludes": ["*/node_modules/*", "*/.git/*", "*.md", "*.mdown", "*.markdown", "*.mdx"],
 
   // ----------------------------------------------------------------------
   // Allow Inline Formatting
