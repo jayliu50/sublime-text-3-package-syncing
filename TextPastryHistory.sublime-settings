@@ -30,17 +30,30 @@
 			},
 			"key": "d50d51dad396f3b07c348be312c59033",
 			"label": "filter :"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "filter ",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "filter "
+			},
+			"key": "acd97ef12c7efb64dcb70cb797baa50d",
+			"label": "filter "
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"context": "selection",
-			"operator": null,
-			"pattern": ":"
+			"text": "filter ",
+			"threshold": 3
 		},
-		"command": "text_pastry_modify_selection",
-		"text": "filter :"
+		"command": "text_pastry_insert_text",
+		"text": "filter "
 	}
 }

@@ -83,7 +83,7 @@
   // on every file save.
   // ----------------------------------------------------------------------
 
-  "auto_format_on_save": true,
+  "auto_format_on_save": false,
 
   // ----------------------------------------------------------------------
   // Auto Format on Save Excludes

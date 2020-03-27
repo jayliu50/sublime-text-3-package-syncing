@@ -1,0 +1,30 @@
+<snippet>
+    <content><![CDATA[
+import React from "react";
+import injectSheet from "react-jss";
+import { connect } from "react-redux";
+
+const style = {};
+
+const ${1:Component} = injectSheet(style)(({ ui, children }) => (
+  <div>{children}</div>
+));
+
+const mapStateToProps = state => {
+  return {
+    ${3: // ui: state.get("ui")}
+  };
+};
+
+const mapDispatchToProps = dispatch => {
+  return {
+    ${4:// onToggle: value => dispatch(toggle(value))}
+  };
+};
+
+export default connect(mapStateToProps, mapDispatchToProps)(${1:Component});
+]]></content>
+    <tabTrigger>rc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Component (redux, jss)</description>
+</snippet>

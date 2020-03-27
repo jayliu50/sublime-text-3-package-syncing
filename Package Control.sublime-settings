@@ -14,6 +14,9 @@
 		"Better CoffeeScript",
 		"Better Completion",
 		"BetterFindBuffer",
+		"BetterSave",
+		"BetterSnippetManager",
+		"Bracketeer",
 		"BracketHighlighter",
 		"Case Conversion",
 		"CoffeeCompile",
@@ -31,6 +34,7 @@
 		"FileManager",
 		"Find++",
 		"FindKeyConflicts",
+		"GenerateUUID",
 		"GhostText",
 		"Git",
 		"GitHub Markdown Snippets",
@@ -44,6 +48,7 @@
 		"JsPrettier",
 		"Liquid",
 		"Local History",
+		"Markdown Table Formatter",
 		"MarkdownEditing",
 		"MarkdownHighlighting",
 		"Material Theme",
@@ -87,7 +92,6 @@
 		"Theme - Soda",
 		"Theme - Soda SolarizedDark",
 		"Theme - Spacegray",
-		"TypeScript",
 		"Typewriter"
 	]
 }
