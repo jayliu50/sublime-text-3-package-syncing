@@ -65,7 +65,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
@@ -123,7 +123,7 @@
 		"gray-antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 11,
+	"font_size": 12,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,

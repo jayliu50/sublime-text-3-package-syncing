@@ -1,17 +1,20 @@
 <snippet>
-  <content><![CDATA[
+    <content><![CDATA[
 ---
 title: ${1:Competitive Analysis}
 date: ${2:2019-06-19T11:57:42-04:00}
-category: ${3:page}
+intro: ${3:intro}
 tags: ${4:my,tags}
-type: ${5:article}
+category: ${5:article}
+project: ${6:project}
+image: ${7:./image.png}
+draft: true
+keywords:
+    - ${8:keyword}
 ---
 
 ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>yfm</tabTrigger>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>text.html.markdown</scope>
-  <description>YAML Frontmatter</description>
+    <tabTrigger>yfm</tabTrigger>
+    <scope>text.html.markdown</scope>
+    <description>YAML Frontmatter for Markdown</description>
 </snippet>
